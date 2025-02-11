@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "inter-sdk-python"
+version = "0.1.0"
+description = ""
+authors = ["Raimundo do Espírito Santo <fo356109@inter.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
